@@ -7,8 +7,7 @@
       ]
     },
     "Texts": {
-      "Chs": "由镭锻造而成。",
-      "Eng": "Forged from irradium."
+      "Eng": "Forged from irradium.\n^cyan;Inflicts Rad-Burn^reset;"
     }
   },
   {

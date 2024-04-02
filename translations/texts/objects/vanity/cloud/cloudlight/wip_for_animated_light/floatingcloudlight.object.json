@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudlight/wip_for_animated_light/floatingcloudlight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light made from clouds. It floats gently."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudlight/wip_for_animated_light/floatingcloudlight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Floating Cloud Light"
+    }
+  }
+]

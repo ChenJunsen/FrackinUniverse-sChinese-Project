@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudbookcase/cloudbookcase.object": [
+        "/description"
+      ],
+      "objects/vanity/cloud/cloudbookcase2/cloudbookcase2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A bookcase made from clouds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudbookcase/cloudbookcase.object": [
+        "/shortdescription"
+      ],
+      "objects/vanity/cloud/cloudbookcase2/cloudbookcase2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud Bookcase"
+    }
+  }
+]

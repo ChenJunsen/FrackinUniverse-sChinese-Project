@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudchair1/cloudchair1.object": [
+        "/description"
+      ],
+      "objects/vanity/cloud/cloudchair2/cloudchair2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A chair made from clouds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudchair1/cloudchair1.object": [
+        "/shortdescription"
+      ],
+      "objects/vanity/cloud/cloudchair2/cloudchair2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud Chair"
+    }
+  }
+]

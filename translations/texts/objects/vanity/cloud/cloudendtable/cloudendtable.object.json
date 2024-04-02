@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudendtable/cloudendtable.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "An end table made from clouds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudendtable/cloudendtable.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud End Table"
+    }
+  }
+]

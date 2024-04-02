@@ -20336,6 +20336,50 @@
           "bamboosofa.object.json": 2,
           "bambootable.object.json": 8
         },
+        "cloud": {
+          "cloudbed": {
+            "cloudbed.object.json": 2
+          },
+          "cloudchest": {
+            "cloudchest.object.json": 2
+          },
+          "cloudchestlarge": {
+            "cloudchestlarge.object.json": 2
+          },
+          "clouddoor": {
+            "clouddoor.object.json": 2
+          },
+          "cloudendtable": {
+            "cloudendtable.object.json": 2
+          },
+          "cloudlight": {
+            "cloudlight.object.json": 2,
+            "wip_for_animated_light": {
+              "floatingcloudlight.object.json": 2
+            }
+          },
+          "cloudrainlight": {
+            "cloudrainlight.object.json": 2
+          },
+          "cloudtable": {
+            "cloudtable.object.json": 2
+          },
+          "cloudthunderlight": {
+            "cloudthunderlight.object.json": 2
+          },
+          "shared_cloudbookcase": {
+            "shared_cloudbookcase.json": 2
+          },
+          "shared_cloudchair": {
+            "shared_cloudchair.json": 2
+          },
+          "shared_cloudcouch": {
+            "shared_cloudcouch.json": 2
+          },
+          "shared_cloudstool": {
+            "shared_cloudstool.json": 2
+          }
+        },
         "cute": {
           "cutearmchair": {
             "cutearmchair2.object.json": 1

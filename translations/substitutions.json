@@ -35543,6 +35543,38 @@
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/vanity/bamboo/bambootable.object.json"
   },
+  "objects/vanity/cloud/cloudbookcase/cloudbookcase.object": {
+    "/description": "texts/objects/vanity/cloud/shared_cloudbookcase/shared_cloudbookcase.json",
+    "/shortdescription": "texts/objects/vanity/cloud/shared_cloudbookcase/shared_cloudbookcase.json"
+  },
+  "objects/vanity/cloud/cloudbookcase2/cloudbookcase2.object": {
+    "/description": "texts/objects/vanity/cloud/shared_cloudbookcase/shared_cloudbookcase.json",
+    "/shortdescription": "texts/objects/vanity/cloud/shared_cloudbookcase/shared_cloudbookcase.json"
+  },
+  "objects/vanity/cloud/cloudchair1/cloudchair1.object": {
+    "/description": "texts/objects/vanity/cloud/shared_cloudchair/shared_cloudchair.json",
+    "/shortdescription": "texts/objects/vanity/cloud/shared_cloudchair/shared_cloudchair.json"
+  },
+  "objects/vanity/cloud/cloudchair2/cloudchair2.object": {
+    "/description": "texts/objects/vanity/cloud/shared_cloudchair/shared_cloudchair.json",
+    "/shortdescription": "texts/objects/vanity/cloud/shared_cloudchair/shared_cloudchair.json"
+  },
+  "objects/vanity/cloud/cloudcouch1/cloudcouch1.object": {
+    "/description": "texts/objects/vanity/cloud/shared_cloudcouch/shared_cloudcouch.json",
+    "/shortdescription": "texts/objects/vanity/cloud/shared_cloudcouch/shared_cloudcouch.json"
+  },
+  "objects/vanity/cloud/cloudcouch2/cloudcouch2.object": {
+    "/description": "texts/objects/vanity/cloud/shared_cloudcouch/shared_cloudcouch.json",
+    "/shortdescription": "texts/objects/vanity/cloud/shared_cloudcouch/shared_cloudcouch.json"
+  },
+  "objects/vanity/cloud/cloudstool1/cloudstool1.object": {
+    "/description": "texts/objects/vanity/cloud/shared_cloudstool/shared_cloudstool.json",
+    "/shortdescription": "texts/objects/vanity/cloud/shared_cloudstool/shared_cloudstool.json"
+  },
+  "objects/vanity/cloud/cloudstool2/cloudstool2.object": {
+    "/description": "texts/objects/vanity/cloud/shared_cloudstool/shared_cloudstool.json",
+    "/shortdescription": "texts/objects/vanity/cloud/shared_cloudstool/shared_cloudstool.json"
+  },
   "objects/vanity/cute/cutearmchair/cutearmchair.object": {
     "/description": "texts/objects/vanity/shared_chair.json",
     "/shortdescription": "texts/objects/vanity/cute/shared_chair/shared_chair.object.json"

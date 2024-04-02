@@ -19,8 +19,7 @@
       ]
     },
     "Texts": {
-      "Chs": "精制的镭制武器。",
-      "Eng": "Purified irradium weapon."
+      "Eng": "Purified irradium weapon.\n^cyan;Inflicts Rad-Burn^reset;"
     }
   }
 ]

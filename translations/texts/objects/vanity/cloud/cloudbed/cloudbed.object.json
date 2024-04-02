@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudbed/cloudbed.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A soft fluffy cloud bed."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudbed/cloudbed.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud Bed"
+    }
+  }
+]

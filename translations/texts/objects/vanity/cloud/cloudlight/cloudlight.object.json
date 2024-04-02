@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudlight/cloudlight.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A light made from clouds. It's kind-of wet."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudlight/cloudlight.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud Light"
+    }
+  }
+]

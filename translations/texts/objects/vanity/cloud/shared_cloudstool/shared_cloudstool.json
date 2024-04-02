@@ -1,0 +1,30 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudstool1/cloudstool1.object": [
+        "/description"
+      ],
+      "objects/vanity/cloud/cloudstool2/cloudstool2.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A stool made from clouds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudstool1/cloudstool1.object": [
+        "/shortdescription"
+      ],
+      "objects/vanity/cloud/cloudstool2/cloudstool2.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud Stool"
+    }
+  }
+]

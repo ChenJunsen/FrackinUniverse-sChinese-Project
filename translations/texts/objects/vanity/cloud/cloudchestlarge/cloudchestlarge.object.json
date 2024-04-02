@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudchestlarge/cloudchestlarge.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A large fluffy cloud chest."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/cloudchestlarge/cloudchestlarge.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Large Cloud Chest"
+    }
+  }
+]

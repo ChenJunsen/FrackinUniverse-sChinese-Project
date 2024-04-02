@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/clouddoor/clouddoor.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A fluffy door made from clouds."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/vanity/cloud/clouddoor/clouddoor.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Cloud Door"
+    }
+  }
+]

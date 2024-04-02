@@ -7,8 +7,7 @@
       ]
     },
     "Texts": {
-      "Chs": "这把武器非常非常重！",
-      "Eng": "An extremely dense, heavy staff."
+      "Eng": "An extremely dense, heavy staff.\n^cyan;Inflicts Electrified^reset;"
     }
   },
   {

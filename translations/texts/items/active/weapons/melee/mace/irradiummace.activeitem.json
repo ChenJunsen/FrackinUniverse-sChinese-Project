@@ -19,8 +19,7 @@
       ]
     },
     "Texts": {
-      "Chs": "让辐射注入你敲击之人的体内吧。",
-      "Eng": "Radiation-laced for extra merriment."
+      "Eng": "Radiation-laced for extra merriment.\n^cyan;Inflicts Rad-Burn^reset;"
     }
   }
 ]

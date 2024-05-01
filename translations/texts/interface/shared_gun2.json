@@ -2,9 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "interface/itemdescriptions/gun2aetherium.itemdescription": [
-        "/energyPerShotTitleLabel/value"
-      ],
       "interface/itemdescriptions/gun2elder.itemdescription": [
         "/energyPerShotTitleLabel/value"
       ],

@@ -2990,7 +2990,7 @@
       },
       "itemdescriptions": {
         "armornew.itemdescription.json": 1,
-        "shared_.itemdescription.json": 7,
+        "shared_.itemdescription.json": 9,
         "shared_new.itemdescription.json": 1
       },
       "kheAA": {
@@ -3203,7 +3203,7 @@
         "xenostation.config.json": 2
       }
     },
-    "interface.json": 15,
+    "interface.json": 17,
     "items": {
       "active": {
         "crewcontracts": {
@@ -22865,10 +22865,10 @@
           "teamswap.statuseffect.json": 1
         },
         "thorns": {
-          "ghostburst.statuseffect.json": 1,
           "iceburst.statuseffect.json": 1,
           "novax10.statuseffect.json": 1,
-          "shared_.statuseffect.json": 2
+          "shared_.statuseffect.json": 2,
+          "shared_t.statuseffect.json": 1
         },
         "timefreeze": {
           "shared_.statuseffect.json": 1

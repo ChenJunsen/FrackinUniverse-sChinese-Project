@@ -2513,7 +2513,7 @@
         "epsteinbook.codex.json": 2,
         "ffguide.codex.json": 2,
         "ffguide2.codex.json": 2,
-        "ffguide3.codex.json": 3,
+        "ffguide3.codex.json": 2,
         "ffguide4.codex.json": 1,
         "ffguide5.codex.json": 3,
         "ffguide6.codex.json": 2,
@@ -4536,7 +4536,7 @@
             "shockshroomnpc.activeitem.json": 0,
             "spiderdriodblast.activeitem.json": 1,
             "spiderdroidbeam.activeitem.json": 1,
-            "swtjc_ewg_npcantimaterialrifle.activeitem.json": 2,
+            "swtjc_ewg_npcantimaterialrifle.activeitem.json": 1,
             "swtjc_ewg_npcautoshotgun.activeitem.json": 1,
             "swtjc_ewg_npcbattlerifle.activeitem.json": 2,
             "swtjc_ewg_npcbeampistol.activeitem.json": 2,
@@ -4762,11 +4762,11 @@
             "sniperrifle": {
               "shared_antimaterialrifle.activeitem.json": 1,
               "shared_beamrifle.activeitem.json": 1,
-              "swtjc_ewg_commonantimaterialrifle.activeitem.json": 2,
+              "swtjc_ewg_commonantimaterialrifle.activeitem.json": 1,
               "swtjc_ewg_commonbeamrifle.activeitem.json": 1,
-              "swtjc_ewg_rareantimaterialrifle.activeitem.json": 1,
+              "swtjc_ewg_rareantimaterialrifle.activeitem.json": 0,
               "swtjc_ewg_rarebeamrifle.activeitem.json": 1,
-              "swtjc_ewg_uncommonantimaterialrifle.activeitem.json": 1,
+              "swtjc_ewg_uncommonantimaterialrifle.activeitem.json": 0,
               "swtjc_ewg_uncommonbeamrifle.activeitem.json": 1
             },
             "unique": {
@@ -22865,10 +22865,10 @@
           "teamswap.statuseffect.json": 1
         },
         "thorns": {
-          "ghostburst.statuseffect.json": 1,
           "iceburst.statuseffect.json": 1,
           "novax10.statuseffect.json": 1,
-          "shared_.statuseffect.json": 2
+          "shared_.statuseffect.json": 2,
+          "shared_t.statuseffect.json": 1
         },
         "timefreeze": {
           "shared_.statuseffect.json": 1

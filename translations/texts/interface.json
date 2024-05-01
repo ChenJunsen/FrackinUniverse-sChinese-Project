@@ -378,6 +378,9 @@
       "interface/itemdescriptions/gun2.itemdescription": [
         "/energyPerShotTitleLabel/value"
       ],
+      "interface/itemdescriptions/gun2aetherium.itemdescription": [
+        "/energyPerShotTitleLabel/value"
+      ],
       "interface/itemdescriptions/gunkevin.itemdescription": [
         "/energyPerShotTitleLabel/value"
       ],
@@ -645,25 +648,13 @@
       "interface/itemdescriptions/fist2aetherium.itemdescription": [
         "/critChanceTitleLabel/value"
       ],
-      "interface/itemdescriptions/gun2.itemdescription": [
-        "/critChanceTitleLabel/value"
-      ],
-      "interface/itemdescriptions/gun2aetherium.itemdescription": [
-        "/critChanceTitleLabel/value"
-      ],
       "interface/itemdescriptions/gun2elder.itemdescription": [
-        "/critChanceTitleLabel/value"
-      ],
-      "interface/itemdescriptions/gun2overheat.itemdescription": [
         "/critChanceTitleLabel/value"
       ],
       "interface/itemdescriptions/gun2overheatelder.itemdescription": [
         "/critChanceTitleLabel/value"
       ],
       "interface/itemdescriptions/gunkevin.itemdescription": [
-        "/critChanceTitleLabel/value"
-      ],
-      "interface/itemdescriptions/gununique.itemdescription": [
         "/critChanceTitleLabel/value"
       ],
       "interface/itemdescriptions/gununiqueelder.itemdescription": [
@@ -706,9 +697,6 @@
         "/critChanceTitleLabel/value"
       ],
       "interface/tooltips/boomerangaetherium.tooltip": [
-        "/critChanceTitleLabel/value"
-      ],
-      "interface/tooltips/bow2.tooltip": [
         "/critChanceTitleLabel/value"
       ],
       "interface/tooltips/bowaetherium.tooltip": [
@@ -774,6 +762,52 @@
   {
     "DeniedAlternatives": [],
     "Files": {
+      "interface/itemdescriptions/gun2.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun2aetherium.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun2overheat.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gununique.itemdescription": [
+        "/critChanceTitleLabel/value"
+      ],
+      "interface/tooltips/bow2.tooltip": [
+        "/critChanceTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#ee1414;Crit%^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/gun2.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun2aetherium.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun2overheat.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gununique.itemdescription": [
+        "/critBonusTitleLabel/value"
+      ],
+      "interface/tooltips/bow2.tooltip": [
+        "/critBonusTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^yellow;C.Dmg%^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
       "interface/itemdescriptions/boomerang.itemdescription": [
         "/critBonusTitleLabel/value"
       ],
@@ -810,25 +844,13 @@
       "interface/itemdescriptions/fuammogun.itemdescription": [
         "/critBonusTitleLabel/value"
       ],
-      "interface/itemdescriptions/gun2.itemdescription": [
-        "/critBonusTitleLabel/value"
-      ],
-      "interface/itemdescriptions/gun2aetherium.itemdescription": [
-        "/critBonusTitleLabel/value"
-      ],
       "interface/itemdescriptions/gun2elder.itemdescription": [
-        "/critBonusTitleLabel/value"
-      ],
-      "interface/itemdescriptions/gun2overheat.itemdescription": [
         "/critBonusTitleLabel/value"
       ],
       "interface/itemdescriptions/gun2overheatelder.itemdescription": [
         "/critBonusTitleLabel/value"
       ],
       "interface/itemdescriptions/gunkevin.itemdescription": [
-        "/critBonusTitleLabel/value"
-      ],
-      "interface/itemdescriptions/gununique.itemdescription": [
         "/critBonusTitleLabel/value"
       ],
       "interface/itemdescriptions/gununiqueelder.itemdescription": [
@@ -871,9 +893,6 @@
         "/critBonusTitleLabel/value"
       ],
       "interface/tooltips/boomerangaetherium.tooltip": [
-        "/critBonusTitleLabel/value"
-      ],
-      "interface/tooltips/bow2.tooltip": [
         "/critBonusTitleLabel/value"
       ],
       "interface/tooltips/bowaetherium.tooltip": [

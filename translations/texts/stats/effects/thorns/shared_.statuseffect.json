@@ -5,6 +5,9 @@
       "stats/effects/thorns/fireburst.statuseffect": [
         "/label"
       ],
+      "stats/effects/thorns/fireburst_armorsetbonus.statuseffect": [
+        "/label"
+      ],
       "stats/effects/thorns/fireburstmonster.statuseffect": [
         "/label"
       ]

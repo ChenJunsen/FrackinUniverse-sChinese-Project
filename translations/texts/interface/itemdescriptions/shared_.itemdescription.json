@@ -145,5 +145,45 @@
       "Chs": "^#61be3f;子弹数^reset;",
       "Eng": "^#61be3f;Ammo^reset;"
     }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/gun2.itemdescription": [
+        "/burstCountTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun2aetherium.itemdescription": [
+        "/burstCountTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun2overheat.itemdescription": [
+        "/burstCountTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gununique.itemdescription": [
+        "/burstCountTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^#61be3f;Burst^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "interface/itemdescriptions/gun2.itemdescription": [
+        "/projectileCountTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun2aetherium.itemdescription": [
+        "/projectileCountTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gun2overheat.itemdescription": [
+        "/projectileCountTitleLabel/value"
+      ],
+      "interface/itemdescriptions/gununique.itemdescription": [
+        "/projectileCountTitleLabel/value"
+      ]
+    },
+    "Texts": {
+      "Eng": "^green;Projectiles^reset;"
+    }
   }
 ]

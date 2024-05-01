@@ -2088,6 +2088,7 @@
     "/priceLabel/value": "texts/wide_spread_fields.json"
   },
   "interface/itemdescriptions/gun2.itemdescription": {
+    "/burstCountTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/critBonusTitleLabel/value": "texts/interface.json",
     "/critChanceTitleLabel/value": "texts/interface.json",
     "/damagePerShotTitleLabel/value": "texts/interface.json",
@@ -2095,17 +2096,20 @@
     "/levelLabelTitle/value": "texts/interface.json",
     "/magazineSizeTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/priceLabel/value": "texts/interface.json",
+    "/projectileCountTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/reloadTimeTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/speedTitleLabel/value": "texts/interface.json"
   },
   "interface/itemdescriptions/gun2aetherium.itemdescription": {
+    "/burstCountTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/critBonusTitleLabel/value": "texts/interface.json",
     "/critChanceTitleLabel/value": "texts/interface.json",
     "/damagePerShotTitleLabel/value": "texts/interface.json",
-    "/energyPerShotTitleLabel/value": "texts/interface/shared_gun2.json",
+    "/energyPerShotTitleLabel/value": "texts/interface.json",
     "/levelLabelTitle/value": "texts/interface.json",
     "/magazineSizeTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/priceLabel/value": "texts/interface.json",
+    "/projectileCountTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/reloadTimeTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/speedTitleLabel/value": "texts/interface.json"
   },
@@ -2121,6 +2125,7 @@
     "/speedTitleLabel/value": "texts/interface.json"
   },
   "interface/itemdescriptions/gun2overheat.itemdescription": {
+    "/burstCountTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/cooldownTitleLabel/value": "texts/interface/shared_gun2overheat.json",
     "/critBonusTitleLabel/value": "texts/interface.json",
     "/critChanceTitleLabel/value": "texts/interface.json",
@@ -2128,6 +2133,7 @@
     "/levelLabelTitle/value": "texts/interface.json",
     "/overheatTitleLabel/value": "texts/interface/shared_gun2.json",
     "/priceLabel/value": "texts/interface.json",
+    "/projectileCountTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/speedTitleLabel/value": "texts/interface.json"
   },
   "interface/itemdescriptions/gun2overheatelder.itemdescription": {
@@ -2152,6 +2158,7 @@
     "/speedTitleLabel/value": "texts/interface.json"
   },
   "interface/itemdescriptions/gununique.itemdescription": {
+    "/burstCountTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/critBonusTitleLabel/value": "texts/interface.json",
     "/critChanceTitleLabel/value": "texts/interface.json",
     "/damagePerShotTitleLabel/value": "texts/interface.json",
@@ -2159,6 +2166,7 @@
     "/levelLabelTitle/value": "texts/interface.json",
     "/magazineSizeTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/priceLabel/value": "texts/interface.json",
+    "/projectileCountTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/reloadTimeTitleLabel/value": "texts/interface/itemdescriptions/shared_.itemdescription.json",
     "/speedTitleLabel/value": "texts/interface.json"
   },
@@ -40064,8 +40072,17 @@
   "stats/effects/thorns/fireburst.statuseffect": {
     "/label": "texts/stats/effects/thorns/shared_.statuseffect.json"
   },
+  "stats/effects/thorns/fireburst_armorsetbonus.statuseffect": {
+    "/label": "texts/stats/effects/thorns/shared_.statuseffect.json"
+  },
   "stats/effects/thorns/fireburstmonster.statuseffect": {
     "/label": "texts/stats/effects/thorns/shared_.statuseffect.json"
+  },
+  "stats/effects/thorns/ghostburst.statuseffect": {
+    "/label": "texts/stats/effects/thorns/shared_t.statuseffect.json"
+  },
+  "stats/effects/thorns/ghostburst_armorset.statuseffect": {
+    "/label": "texts/stats/effects/thorns/shared_t.statuseffect.json"
   },
   "stats/effects/thorns/thornsstranglevine.statuseffect": {
     "/label": "texts/stats/effects/thorns/shared_.statuseffect.json"

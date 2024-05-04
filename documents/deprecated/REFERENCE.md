@@ -90,7 +90,7 @@
 
 * 呼吸时限 Breath Duration Oxygen %, Oxygen Supply %
 * 呼吸回复速度 Breath Regen
-* 饥饿速度 Food Consumption per second Hunger, Hunger Rate
+* 饥饿速度 Food Consumption per second Hunger, Hunger Rate，Hunger Drain
 
 * 击退抵抗 Knockback Resistance %
 * ？？？临界值 ？？？ Threshold

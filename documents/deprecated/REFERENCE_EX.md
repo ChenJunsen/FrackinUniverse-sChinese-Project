@@ -10,7 +10,7 @@
 * alienjuice
 	* swimming
 	* liquidalienjuice
-* beer
+* beer&emsp;啤酒
 	* swimming,booze
 	* liquidbeer
 * bio_ooze
@@ -43,7 +43,7 @@
 * fuquicksand&emsp;*不能游泳*
 	* fuquicksand
 	* sand
-* gravrain
+* gravrain&emsp;重力雨
 	* swimming,gravrain
 	* liquidgravrain
 * helium3gas&emsp;*不能游泳*
@@ -113,7 +113,7 @@
 * frozenburning&emsp;霜灼
 	* groundMovement：.0.3，speed：0.75，airJump：0.85
 	* 如果寒气抗性大于60/40/20，则每次造成3-2.5/1.75/1点寒气伤害。默认持续5s。
-* fu_death&emsp;强制死亡
+* fu_death&emsp;即死
 	* 每次造成88真实伤害。
 &emsp;
 * radiendirt&emsp;5克泥土

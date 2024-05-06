@@ -167,6 +167,7 @@
       ]
     },
     "Texts": {
+      "Chs": "这样第一步就完成了！使用你的 ^orange;熔炉^reset;将矿石冶炼成金属锭。接下来，在^cyan;农业^reset;研究树中^green;研究^reset;如何制作^orange;采集工作台^reset;制作一个吧。",
       "Eng": "That takes care of step one! Use your ^orange;Furnace^reset; to smelt ores into metal bars. Next, ^green;Research^reset; how to make a ^orange;Foraging Table^reset; in the ^cyan;Agriculture^reset; research tree. Craft one."
     }
   },
@@ -178,7 +179,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^orange;个人三度仪^reset;^red;非常重要^reset;，不要弄丢了，永远都不！不过……如果你弄丢了，你仍然可以在你的^orange;改造台^reset;中重新制作一个新的。",
+      "Chs": "^orange;个人三度仪^reset;^red;非常重要^reset;，千万别弄丢了，永远都不要！不过……如果你弄丢了，你仍然可以在你的^orange;改造台^reset;中重新制作一个新的。",
       "Eng": "The ^orange;Personal Tricorder^reset; is ^red;EXTREMELY^reset; important. Do not throw it out. Ever! Should you lose it, you can always create a new ^orange;Personal Tricorder^reset; in your ^green;Tinkering Table^reset;."
     }
   },
@@ -202,6 +203,7 @@
       ]
     },
     "Texts": {
+      "Chs": "洞穴以前是锁着的，但我用在地面的一间^green;老旧而破败的屋子^reset;里偶然发现的一把^orange;钥匙^reset;打开了它。你现在应该可以进去了。",
       "Eng": "The cave was previously locked, but I just opened it with a ^orange;key^reset; that I interestingly found in the ^green;old, ruined house^reset; on the surface. You should be able to enter now."
     }
   },
@@ -213,7 +215,7 @@
       ]
     },
     "Texts": {
-      "Chs": "还差一步就能修好你的^green;传送器^reset;：一个^orange;电磁铁^reset;。如果你不介意，就在你的^green;加工台^reset;为我制作一个吧？",
+      "Chs": "还差一步就能修好你的^green;传送器^reset;：一个^orange;电磁铁^reset;了。如果你不介意，就在你的^green;加工台^reset;为我制作一个吧？",
       "Eng": "There's one more step to getting your ^green;Teleporter^reset; fixed: an ^orange;Electromagnet^reset;. Build one at your ^green;Machining Table^reset; for me, if you don't mind?"
     }
   },
@@ -225,7 +227,7 @@
       ]
     },
     "Texts": {
-      "Chs": "采集工作站能帮助你^green;生存^reset;和^green;耕作^reset;。你已经证明自己的能力，所以继续努力吧，开始^green;研究^reset;如何制作^orange;加工台^reset;并制造一张。你能在^cyan;工程学^reset;研究树中找到它。",
+      "Chs": "采集工作台能帮助你^green;生存^reset;和^green;耕作^reset;。你已经证明自己的能力，所以继续努力吧，开始^green;研究^reset;如何制作^orange;加工台^reset;并制造一张。你能在^cyan;工程学^reset;研究树中找到它。",
       "Eng": "This station will help you with ^green;Survival^reset; and ^green;Farming^reset;. You've proven you're capable, so go ahead and ^green;Research^reset; how to make a ^orange;Machining Table^reset; and then craft it. You'll find it in the ^cyan;Engineering^reset; research tree."
     }
   },
@@ -309,7 +311,7 @@
       ]
     },
     "Texts": {
-      "Chs": "你可以在你的^cyan;工程^reset;科技树处研究^orange;STL引擎^reset;，亲爱的。你需要一些星核碎片才能让它工作，所以你可能要做一些挖掘工作！",
+      "Chs": "你可以在你的^cyan;工程^reset;科技树处研究^orange;STL引擎^reset;，亲爱的。你需要一些星核碎片才能让它工作，所以你可能要去挖点什么！",
       "Eng": "You can research the ^orange;STL Drive^reset; in your ^cyan;Engineering^reset; tree, dear. You'll need a few core fragments to get it working, so you might have to do a little digging!"
     }
   },

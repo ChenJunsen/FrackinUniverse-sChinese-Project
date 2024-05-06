@@ -91,7 +91,7 @@
       ]
     },
     "Texts": {
-      "Chs": "真是值得庆祝！由于你受到爆炸性减压或者极端压强的作用，你似乎正在接近死亡的边缘。你应该快速地寻找一处安全区域或者无抵抗地面对^red;死亡^reset;！",
+      "Chs": "可喜可贺！由于你受到爆炸性减压或者极端压强的作用，你似乎正在接近死亡的边缘。你应该快速地寻找一处安全区域或者无抵抗地面对^red;死亡^reset;！",
       "Eng": "Greetings! You appear to be rapidly dying due to explosive decompression or extreme pressure. You should seek safety, and relatively quickly or face ^red;certain death^reset;!"
     }
   },
@@ -799,7 +799,7 @@
       ]
     },
     "Texts": {
-      "Chs": "你变得如此愤怒，正是因为你饿了！你觉得你的朋友怎么样？他那有弹性的皮肤，撕开来或许可以看到鲜嫩的内脏，相信我，这很容易做到，他并没有防备你，快去把他杀了吧，然后你就可以填饱你的肚子了！",
+      "Chs": "你变得如此愤怒，正是因为你饿了！你觉得^red;你的朋友^reset;怎么样？他那有弹性的皮肤，撕开来或许可以看到鲜嫩的内脏，相信我，这很容易做到，他并没有防备你，快去把他杀了吧，然后你就可以填饱你的肚子了！",
       "Eng": "You're getting pretty hangry. That means angry and hungry. Because hunger. Food. Have you considered ^red;cannibalism^reset;? It's fast and easy! Try it ! Murder a neighbor! Trust the voices."
     }
   },
@@ -931,7 +931,7 @@
       ]
     },
     "Texts": {
-      "Chs": "^red;警告：检测到日益恶化的精神状态！^reset;这个星球上的某些东西正在使你的大脑变得混乱起来，你甚至没有办法集中自己的注意力，你感觉到自己快要疯了...",
+      "Chs": "^red;警告：检测到日益恶化的精神状态！^reset;这个星球上的环境正在使你的大脑变得混乱起来，你甚至没有办法集中自己的注意力，你感觉到自己快要疯了...",
       "Eng": "^red;ALERT: MENTAL STATE DETERIORATING!^reset; Your surroundings are causing your thoughts and feelings to become jumbled. Focus is difficult and you feel yourself going insane..."
     }
   },

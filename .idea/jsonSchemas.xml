@@ -3,48 +3,13 @@
   <component name="JsonSchemaMappingsProjectConfiguration">
     <state>
       <map>
-        <entry key="dictionary">
+        <entry key="text.schema">
           <value>
             <SchemaInfo>
-              <option name="name" value="dictionary" />
-              <option name="relativePathToSchema" value="schema/dictionary.schema.yml" />
-              <option name="schemaVersion" value="JSON Schema version 7" />
-              <option name="patterns">
-                <list>
-                  <Item>
-                    <option name="directory" value="true" />
-                    <option name="path" value="dictionary" />
-                    <option name="mappingKind" value="Directory" />
-                  </Item>
-                </list>
-              </option>
-            </SchemaInfo>
-          </value>
-        </entry>
-        <entry key="schema">
-          <value>
-            <SchemaInfo>
-              <option name="name" value="schema" />
-              <option name="relativePathToSchema" value="http://json-schema.org/draft-07/schema" />
-              <option name="schemaVersion" value="JSON Schema version 7" />
-              <option name="patterns">
-                <list>
-                  <Item>
-                    <option name="directory" value="true" />
-                    <option name="path" value="schema" />
-                    <option name="mappingKind" value="Directory" />
-                  </Item>
-                </list>
-              </option>
-            </SchemaInfo>
-          </value>
-        </entry>
-        <entry key="text">
-          <value>
-            <SchemaInfo>
-              <option name="name" value="text" />
+              <option name="generatedName" value="新架构" />
+              <option name="name" value="text.schema" />
               <option name="relativePathToSchema" value="schema/text.schema.yml" />
-              <option name="schemaVersion" value="JSON Schema version 7" />
+              <option name="schemaVersion" value="JSON 架构版本 7" />
               <option name="patterns">
                 <list>
                   <Item>
@@ -56,9 +21,6 @@
                     <option name="directory" value="true" />
                     <option name="path" value="translations/texts" />
                     <option name="mappingKind" value="Directory" />
-                  </Item>
-                  <Item>
-                    <option name="path" value="translations/texts/codex/documents/ffguide.codex.json" />
                   </Item>
                 </list>
               </option>

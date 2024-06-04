@@ -3940,7 +3940,7 @@
                 "dbladelong.activeitem.json": 1
               },
               "densiniumsword": {
-                "densiniumsword.activeitem.json": 1
+                "densiniumsword.activeitem.json": 2
               },
               "effigiumbroadsword.activeitem.json": 1,
               "elderbroadsword.activeitem.json": 3,
@@ -4403,7 +4403,7 @@
             "skath": {
               "broadsword": {
                 "Plasmasword": {
-                  "skathtier3broadsword.activeitem.json": 2
+                  "skathtier3broadsword.activeitem.json": 3
                 },
                 "skathtier1broadsword.activeitem.json": 2,
                 "skathtier2broadsword.activeitem.json": 2
@@ -4415,9 +4415,6 @@
                 "shared_hammer.json": 1,
                 "skathtier1hammer.activeitem.json": 1,
                 "skathtier2hammer.activeitem.json": 1
-              },
-              "shared_Plasmas": {
-                "shared_.activeitem.json": 1
               },
               "spear": {
                 "Plasmaspear": {
@@ -4489,7 +4486,6 @@
               "zerchesiumspear.activeitem.json": 2
             }
           },
-          "melee.json": 1,
           "nightar": {
             "brokennightarsaber.activeitem.json": 2,
             "fubrokennightarblade.activeitem.json": 2,
@@ -10317,7 +10313,7 @@
           "raptorstrikeattack.monsterskill.json": 1,
           "robotRocketAttack.monsterskill.json": 1,
           "robotgaussAttack.monsterskill.json": 1,
-          "shared_Attack.monsterskill.json": 3,
+          "shared_Attack.monsterskill.json": 0,
           "shared_PoisonBlastAttack.monsterskill.json": 1,
           "shared_attack.monsterskill.json": 1,
           "slimePoisonSpewAttack.monsterskill.json": 1,
@@ -14357,7 +14353,8 @@
         "kheAA_grabber": {
           "kheAA_grabber.object.json": 2,
           "kheAA_grabber2.object.json": 2,
-          "kheAA_grabber3.object.json": 2
+          "kheAA_grabber3.object.json": 2,
+          "kheAA_grabbership.object.json": 0
         },
         "kheAA_pump": {
           "kheAA_pump.object.json": 1,
@@ -14543,7 +14540,7 @@
           "imperialcouch.object.json": 9
         },
         "imperialcup": {
-          "imperialcup.object.json": 9
+          "imperialcup.object.json": 3
         },
         "imperialcurtain1": {
           "imperialcurtain1.object.json": 4
@@ -21709,7 +21706,7 @@
       "fu_kevin.radiomessages.json": 10,
       "fu_madness.radiomessages.json": 19,
       "fu_ore.radiomessages.json": 18,
-      "fu_quests.radiomessages.json": 25,
+      "fu_quests.radiomessages.json": 27,
       "fu_resources.radiomessages.json": 50,
       "fu_stations.radiomessages.json": 3,
       "fu_techtrials.radiomessages.json": 2,
@@ -21939,7 +21936,7 @@
       "fuphotonpoptop.species.json": 3,
       "fuslimeperson.species.json": 1,
       "fuslimepersonfemalenamegen.config.json": 0,
-      "juux.species.json": 7,
+      "juux.species.json": 8,
       "kirhosnamegen.config.json": 230,
       "mantizifemalenamegen.config.json": 17,
       "mantizimalenamegen.config.json": 33,
@@ -21947,7 +21944,7 @@
       "peglacinamegen.config.json": 70,
       "precursor.species.json": 2,
       "precursornamegen.config.json": 2,
-      "radien.species.json": 7,
+      "radien.species.json": 8,
       "radiennamegen.config.json": 243,
       "shadownamegen.config.json": 78,
       "shared_.species.json": 31,
@@ -21961,7 +21958,7 @@
       "skathmalenamegen.config.json": 35,
       "slimenpc.species.json": 1,
       "slimenpchuman.species.json": 2,
-      "slimeperson.species.json": 0,
+      "slimeperson.species.json": 1,
       "slimepersonfemalenamegen.config.json": 88,
       "slimepersonmalenamegen.config.json": 73,
       "spiderdroid.species.json": 3,

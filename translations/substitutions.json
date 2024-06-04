@@ -3700,9 +3700,6 @@
     "/description": "texts/items/active/weapons/melee/shared_sword/shared_sword.activeitem.json",
     "/shortdescription": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
   },
-  "items/active/weapons/melee/broadsword/densiniumsword/densiniumsword.activeitem": {
-    "/altAbility/name": "texts/items/active/weapons/melee.json"
-  },
   "items/active/weapons/melee/broadsword/effigiumbroadsword.activeitem": {
     "/description": "texts/items/active/weapons/melee/shared_sword/shared_sword.activeitem.json"
   },
@@ -4003,9 +4000,6 @@
   "items/active/weapons/melee/shortsword/veluushortsword.activeitem": {
     "/description": "texts/items/active/weapons/melee/shared_sword/shared_sword.activeitem.json"
   },
-  "items/active/weapons/melee/skath/broadsword/Plasmasword/skathtier3broadsword.activeitem": {
-    "/description": "texts/items/active/weapons/melee/skath/shared_Plasmas/shared_.activeitem.json"
-  },
   "items/active/weapons/melee/skath/hammer/Plasmahammer/skathtier3hammer.activeitem": {
     "/description": "texts/items/active/weapons/melee/skath/hammer/shared_hammer.json"
   },
@@ -4014,10 +4008,6 @@
   },
   "items/active/weapons/melee/skath/hammer/skathtier2hammer.activeitem": {
     "/description": "texts/items/active/weapons/melee/skath/hammer/shared_hammer.json"
-  },
-  "items/active/weapons/melee/skath/spear/Plasmaspear/skathtier3spear.activeitem": {
-    "/altAbility/name": "texts/items/active/weapons/melee.json",
-    "/description": "texts/items/active/weapons/melee/skath/shared_Plasmas/shared_.activeitem.json"
   },
   "items/active/weapons/melee/skath/spear/skathtier1spear.activeitem": {
     "/description": "texts/items/active/weapons/melee/skath/spear/shared_spear.activeitem.json"

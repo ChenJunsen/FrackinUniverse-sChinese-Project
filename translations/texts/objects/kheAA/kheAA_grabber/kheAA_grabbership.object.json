@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_grabber/kheAA_grabbership.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Grabber (Ship)"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/kheAA/kheAA_grabber/kheAA_grabbership.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "Specialized grabber only for use on ships. Absolutely massive range, but no storage.\n^blue;Input: ^white;On/Off Switch^reset;"
+    }
+  }
+]

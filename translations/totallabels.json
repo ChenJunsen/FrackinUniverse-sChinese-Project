@@ -3940,7 +3940,7 @@
                 "dbladelong.activeitem.json": 1
               },
               "densiniumsword": {
-                "densiniumsword.activeitem.json": 2
+                "densiniumsword.activeitem.json": 3
               },
               "effigiumbroadsword.activeitem.json": 1,
               "elderbroadsword.activeitem.json": 3,
@@ -4403,7 +4403,7 @@
             "skath": {
               "broadsword": {
                 "Plasmasword": {
-                  "skathtier3broadsword.activeitem.json": 2
+                  "skathtier3broadsword.activeitem.json": 3
                 },
                 "skathtier1broadsword.activeitem.json": 2,
                 "skathtier2broadsword.activeitem.json": 2
@@ -4416,12 +4416,9 @@
                 "skathtier1hammer.activeitem.json": 1,
                 "skathtier2hammer.activeitem.json": 1
               },
-              "shared_Plasmas": {
-                "shared_.activeitem.json": 1
-              },
               "spear": {
                 "Plasmaspear": {
-                  "skathtier3spear.activeitem.json": 1
+                  "skathtier3spear.activeitem.json": 2
                 },
                 "shared_spear.activeitem.json": 1,
                 "skathtier1spear.activeitem.json": 1,
@@ -4489,7 +4486,6 @@
               "zerchesiumspear.activeitem.json": 2
             }
           },
-          "melee.json": 1,
           "nightar": {
             "brokennightarsaber.activeitem.json": 2,
             "fubrokennightarblade.activeitem.json": 2,
@@ -14357,7 +14353,8 @@
         "kheAA_grabber": {
           "kheAA_grabber.object.json": 2,
           "kheAA_grabber2.object.json": 2,
-          "kheAA_grabber3.object.json": 2
+          "kheAA_grabber3.object.json": 2,
+          "kheAA_grabbership.object.json": 2
         },
         "kheAA_pump": {
           "kheAA_pump.object.json": 1,

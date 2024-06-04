@@ -2,7 +2,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "species/juux.species": ["/charCreationTooltip/description"]
+      "species/juux.species": [
+        "/charCreationTooltip/description"
+      ]
     },
     "Texts": {
       "Chs": "一种不寻常的极端灵能物种。可以通过纯粹的意志力产生强大的灵能波动。\n\n  ^orange;食性^reset;: 杂食（包括已烹饪的同位素）\n\n^orange;天赋^reset;:\n能量 x^green;1.1^reset;\n  ^green;抗性^reset;: +^cyan;30^reset;% 精神抗性, +^cyan;20^reset;% 火炎 & 电系抗性, +^cyan;15^reset;% 射线 & 辐射抗性\n  ^cyan;免疫^reset;: 燃烧\n  科技: ^green;灵能波动^reset;\n\n^orange;环境^reset;:\n  ^green;带电或晶体^reset;生物群落: +^green;5% 速度^reset;\n  ^red;寒冷^reset; 生物群落: 防御 x^red;0.9^reset;\n\n^orange;武器^reset;:\n  见闻之色: ;^green;所有^reset; 伤害+^cyan;8%^reset;\n  灵能光束: 伤害 x^green;1.2^reset;\n  磁力珠专精: +^green;20^reset;%\n\n^red;弱点^reset;:\n  HP: x^red;0.88^reset;\n\n  ^red;抗性^reset;: -^red;12^reset;% 物理抗性, -^red;20^reset;% 毒素抗性, -^red;5^reset;% 寒气抗性\n  -^red;10^reset;% 魅力",
@@ -12,7 +14,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "species/juux.species": ["/charGenTextLabels/0"]
+      "species/juux.species": [
+        "/charGenTextLabels/0"
+      ]
     },
     "Texts": {
       "Chs": "身体颜色",
@@ -22,7 +26,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "species/juux.species": ["/charGenTextLabels/1"]
+      "species/juux.species": [
+        "/charGenTextLabels/1"
+      ]
     },
     "Texts": {
       "Chs": "宝石",
@@ -32,7 +38,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "species/juux.species": ["/charGenTextLabels/5"]
+      "species/juux.species": [
+        "/charGenTextLabels/5"
+      ]
     },
     "Texts": {
       "Chs": "宝石颜色",
@@ -42,7 +50,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "species/juux.species": ["/charGenTextLabels/4"]
+      "species/juux.species": [
+        "/charGenTextLabels/4"
+      ]
     },
     "Texts": {
       "Chs": "标记颜色",
@@ -52,7 +62,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "species/juux.species": ["/charCreationTooltip/subTitle"]
+      "species/juux.species": [
+        "/charCreationTooltip/subTitle"
+      ]
     },
     "Texts": {
       "Chs": "08",
@@ -62,7 +74,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "species/juux.species": ["/charGenTextLabels/8"]
+      "species/juux.species": [
+        "/charGenTextLabels/8"
+      ]
     },
     "Texts": {
       "Chs": "法瑞图",
@@ -72,7 +86,9 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "species/juux.species": ["/charCreationTooltip/title"]
+      "species/juux.species": [
+        "/charCreationTooltip/title"
+      ]
     },
     "Texts": {
       "Chs": "法瑞图",

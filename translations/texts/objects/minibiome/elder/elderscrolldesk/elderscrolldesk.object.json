@@ -15,7 +15,6 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/minibiome/elder/elderscrolldesk/elderscrolldesk.object": [
-        "/interactData/paneLayoutOverride/windowtitle/title",
         "/shortdescription"
       ]
     },

@@ -39,6 +39,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "frackinship/configs/ships.config": [
+        "/fu_byosFenerox/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Fenerox BYOS Ship"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "frackinship/configs/ships.config": [
         "/fu_byosFloran/name"
       ]
     },
@@ -111,6 +122,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "frackinship/configs/ships.config": [
+        "/fu_byosKirhos/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kirhosi BYOS Ship"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "frackinship/configs/ships.config": [
         "/fu_byosMantizi/name"
       ]
     },
@@ -129,6 +151,17 @@
     "Texts": {
       "Chs": "迷你BYOS飞船",
       "Eng": "Miniship BYOS Ship"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "frackinship/configs/ships.config": [
+        "/fu_byosNightar/name"
+      ]
+    },
+    "Texts": {
+      "Eng": "Nightar BYOS Ship"
     }
   },
   {

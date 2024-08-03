@@ -3,6 +3,18 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/weapons/nightar/nightarsaber.activeitem": [
+        "/improvedParameters/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "剑刃锋利。",
+      "Eng": "A fine, lethal edge."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/nightar/nightarsaber.activeitem": [
         "/improvedParameters/shortdescription"
       ]
     },
@@ -57,6 +69,18 @@
     "Texts": {
       "Chs": "据说曾被一位传奇夜族剑客所使用。",
       "Eng": "Said to be wielded by a legendary Nightar swordsman."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/nightar/nightarsaber.activeitem": [
+        "/upgradeParameters/description"
+      ]
+    },
+    "Texts": {
+      "Chs": "它的刀刃拥有无与伦比的锋利度。",
+      "Eng": "The edge is superior to nearly any other."
     }
   }
 ]

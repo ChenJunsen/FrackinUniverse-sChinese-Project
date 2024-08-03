@@ -19,8 +19,7 @@
       ]
     },
     "Texts": {
-      "Chs": "咦？怎么可能，把蜂蜜武器化了？",
-      "Eng": "Impossible. Weaponized honey."
+      "Eng": "Impossible. Weaponized honey.\nNormal Strikes deal ^red;Physical Damage^reset; and inflict ^red;Bee Stings^reset; and ^orange;Burning^reset;"
     }
   }
 ]

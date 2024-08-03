@@ -1,0 +1,21 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/fu_byosshipdoor/fu_byosshiphatch.object": [
+        "/fukirhosDescription"
+      ],
+      "objects/ship/fu_byosshiphatchbroken/fu_byosshiphatchBroken.object": [
+        "/fukirhosDescription"
+      ],
+      "objects/ship/kirhosshipdoor/kirhosshiphatch.object": [
+        "/fukirhosDescription",
+        "/kirhosDescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "太酷了！最先进的双滑动舱口！",
+      "Eng": "Radicool!  A state-of-the-art dual-sliding hatch!"
+    }
+  }
+]

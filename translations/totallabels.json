@@ -2931,7 +2931,7 @@
     "frackinship": {
       "configs": {
         "misc.config.json": 5,
-        "ships.config.json": 22
+        "ships.config.json": 25
       },
       "items": {
         "shipunlocks": {
@@ -3969,16 +3969,13 @@
               "quietusemperor.activeitem.json": 2,
               "quietusknight.activeitem.json": 3,
               "radienbroadsword.activeitem.json": 2,
-              "shared_.activeitem.json": 3,
+              "shared_.activeitem.json": 2,
               "shared_wavyslimesword.json": 1,
               "slimebroadsword": {
                 "shared_broadsword.activeitem.json": 1,
                 "slimenpcbroadsword.activeitem.json": 1,
                 "slimepersonbroadsword.activeitem.json": 1
               },
-              "slimesword.activeitem.json": 1,
-              "slimesword2.activeitem.json": 1,
-              "slimesword3.activeitem.json": 1,
               "spikesword.activeitem.json": 2,
               "stonebroadsword.activeitem.json": 1,
               "telebriumbroadsword.activeitem.json": 2,
@@ -4009,7 +4006,7 @@
               "irradiumdagger.activeitem.json": 2,
               "isogendagger.activeitem.json": 2,
               "lunaridagger.activeitem.json": 2,
-              "nightardagger.activeitem.json": 5,
+              "nightardagger.activeitem.json": 7,
               "penumbriredagger.activeitem.json": 2,
               "pyreitedagger.activeitem.json": 2,
               "quietusknave.activeitem.json": 1,
@@ -4180,7 +4177,6 @@
             },
             "mace": {
               "aegisaltmace.activeitem.json": 2,
-              "aetheriummace.activeitem.json": 4,
               "ballmace.activeitem.json": 2,
               "bonemace.activeitem.json": 2,
               "cutemace.activeitem.json": 2,
@@ -4301,7 +4297,7 @@
               "xithricitescythe.activeitem.json": 2,
               "zerchesiumscythe.activeitem.json": 2
             },
-            "shared_.activeitem.json": 6,
+            "shared_.activeitem.json": 4,
             "shared_r.activeitem.json": 1,
             "shared_spear": {
               "shared_spear.activeitem.json": 2
@@ -4380,7 +4376,6 @@
               "isogenshortsword.activeitem.json": 2,
               "moltenblade.activeitem.json": 2,
               "murdermachete.activeitem.json": 2,
-              "nightarshortsword.activeitem.json": 3,
               "obsidianblade.activeitem.json": 2,
               "penumbriteshortsword.activeitem.json": 2,
               "pyreiteshortsword.activeitem.json": 2,
@@ -4489,7 +4484,7 @@
           "nightar": {
             "brokennightarsaber.activeitem.json": 2,
             "fubrokennightarblade.activeitem.json": 2,
-            "nightarsaber.activeitem.json": 5
+            "nightarsaber.activeitem.json": 7
           },
           "novakid": {
             "durasteelassaultrifle2.activeitem.json": 2,
@@ -4965,7 +4960,7 @@
                   "basicminertest.activeitem.json": 10
                 },
                 "weaponminer": {
-                  "weaponminer.activeitem.json": 5
+                  "weaponminer.activeitem.json": 6
                 }
               },
               "minirocketlauncher.activeitem.json": 2,
@@ -5412,7 +5407,7 @@
             "zerchesiumwhip.activeitem.json": 2
           }
         },
-        "weapons.json": 6,
+        "weapons.json": 4,
         "xcodex": {
           "logbook": {
             "logbook.activeitem.json": 2
@@ -8467,7 +8462,7 @@
           "cellpods.consumable.json": 2,
           "cherry.consumable.json": 2,
           "corvex.consumable.json": 2,
-          "crystalplant.consumable.json": 2,
+          "crystalplantedible.consumable.json": 2,
           "diodiahybrid.consumable.json": 2,
           "dragonsbeard.consumable.json": 2,
           "dunestalk.item.json": 2,
@@ -8922,7 +8917,7 @@
         "shared_unrefined.json": 1,
         "shared_woodenplatform.matitem.json": 4,
         "shared_woodenwindow1.matitem.json": 1,
-        "shojilattice.matitem.json": 2,
+        "shojilattice.matitem.json": 1,
         "shroomblockglow.matitem.json": 1,
         "shroomblockmaterial.matitem.json": 1,
         "skathhazard.matitem.json": 1,
@@ -9333,6 +9328,7 @@
       "shared_sandpillar.json": 2,
       "shared_sandstone.json": 2,
       "shared_shingles.mat.json": 5,
+      "shared_shojilattice.mat.json": 1,
       "shared_shroomblock.json": 1,
       "shared_shroomblockglow.mat.json": 1,
       "shared_silversloppedpanel.mat.json": 2,
@@ -17953,7 +17949,8 @@
           "kirhosfuelhatch.object.json": 1
         },
         "kirhosshipdoor": {
-          "kirhosshipdoor.object.json": 1
+          "kirhosshipdoor.object.json": 1,
+          "kirhosshiphatch.object.json": 1
         },
         "kirhosshipdoorbroken": {
           "kirhosshipdoorbroken.object.json": 2
@@ -17965,6 +17962,9 @@
           "kirhosshiplockertier0.object.json": 3
         },
         "kirhosshipparts": {
+          "SIV_shipKirhosGunDeco": {
+            "SIV_shipKirhosGunDeco.object.json": 2
+          },
           "kirhos_eye.object.json": 2,
           "kirhos_smalleye.object.json": 2
         },
@@ -18114,7 +18114,7 @@
         },
         "shared_fu_byosship": {
           "shared_fu_byosship.json": 1,
-          "shared_fu_byosshiphatch.json": 3
+          "shared_fu_byosshiphatch.json": 2
         },
         "shared_fu_byosshipdoor": {
           "shared_fu_byosshipdoor.json": 3
@@ -18166,6 +18166,9 @@
         },
         "shared_oscaptainschair": {
           "shared_oscaptainschair.json": 1
+        },
+        "shared_osship": {
+          "shared_osshiphatch.json": 1
         },
         "shared_osshipdoor": {
           "shared_osshipdoor.json": 1
@@ -23128,7 +23131,7 @@
         "darkstone.material.json": 2,
         "deadearth.material.json": 1,
         "dollhouse": {
-          "dollhousecrosshatch.material.json": 2,
+          "dollhousecrosshatch.material.json": 1,
           "dollhouseflooring.material.json": 5,
           "dollhousepillar.material.json": 5,
           "dollhousetiles.material.json": 3,
@@ -23411,7 +23414,7 @@
         },
         "whitemeteorite.material.json": 2
       },
-      "materials.json": 1,
+      "materials.json": 2,
       "mods": {
         "algaeore.matmod.json": 1,
         "avalitilled.matmod.json": 1,

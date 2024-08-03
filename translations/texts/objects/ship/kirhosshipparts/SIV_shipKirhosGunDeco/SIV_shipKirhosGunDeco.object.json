@@ -1,0 +1,24 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/kirhosshipparts/SIV_shipKirhosGunDeco/SIV_shipKirhosGunDeco.object": [
+        "/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A small Gun Decoration for a Kirhosi spaceship."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/ship/kirhosshipparts/SIV_shipKirhosGunDeco/SIV_shipKirhosGunDeco.object": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "Kirhos Ship Gun Deco"
+    }
+  }
+]

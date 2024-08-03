@@ -2,24 +2,6 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "items/active/weapons/melee/broadsword/slimesword.activeitem": [
-        "/description"
-      ],
-      "items/active/weapons/melee/broadsword/slimesword2.activeitem": [
-        "/description"
-      ],
-      "items/active/weapons/melee/broadsword/slimesword3.activeitem": [
-        "/description"
-      ]
-    },
-    "Texts": {
-      "Chs": "一把用黏液打造的宽剑。很奇怪，但非常有效。",
-      "Eng": "A sword made out of slime.  Strange, but effective."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
       "items/active/weapons/melee/broadsword/deadbeatbroadsword.activeitem": [
         "/shortdescription"
       ],

@@ -449,6 +449,9 @@
       "tiles/materials/lightwood/fulightcrosshatch.material": [
         "/floranDescription"
       ],
+      "tiles/materials/shojilattice.material": [
+        "/floranDescription"
+      ],
       "tiles/materials/treatedwood/futreatedcrosshatch.material": [
         "/floranDescription"
       ],
@@ -1475,6 +1478,9 @@
       "tiles/materials/lightwood/fulightcrosshatch.material": [
         "/novakidDescription"
       ],
+      "tiles/materials/shojilattice.material": [
+        "/novakidDescription"
+      ],
       "tiles/materials/treatedwood/futreatedcrosshatch.material": [
         "/novakidDescription"
       ],
@@ -1578,6 +1584,9 @@
         "/glitchDescription/glitchEmotedText"
       ],
       "tiles/materials/lightwood/fulightcrosshatch.material": [
+        "/glitchDescription/glitchEmotedText"
+      ],
+      "tiles/materials/shojilattice.material": [
         "/glitchDescription/glitchEmotedText"
       ],
       "tiles/materials/treatedwood/futreatedcrosshatch.material": [

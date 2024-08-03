@@ -15,6 +15,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "items/active/weapons/ranged/unique/miners/weaponminer/weaponminer.activeitem": [
+        "/upgradeParameters3/description"
+      ]
+    },
+    "Texts": {
+      "Eng": "A trusty beam weapon.\n^cyan;Inflicts Frostburn^reset;"
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/active/weapons/ranged/unique/miners/weaponminer/weaponminer.activeitem": [
         "/shortdescription"
       ]
     },

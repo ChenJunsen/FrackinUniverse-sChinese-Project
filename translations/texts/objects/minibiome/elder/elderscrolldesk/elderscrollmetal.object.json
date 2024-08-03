@@ -3,6 +3,7 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/minibiome/elder/elderscrolldesk/elderscrollmetal.object": [
+        "/interactData/paneLayoutOverride/windowtitle/title",
         "/shortdescription"
       ]
     },

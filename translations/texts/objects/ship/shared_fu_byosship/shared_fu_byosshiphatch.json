@@ -28,20 +28,5 @@
       "Chs": "检测到舱口。分析：船舶模型。",
       "Eng": "Detected hatch. Analysis: Ship model."
     }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/ship/fu_byosshipdoor/fu_byosshiphatch.object": [
-        "/fukirhosDescription"
-      ],
-      "objects/ship/fu_byosshiphatchbroken/fu_byosshiphatchBroken.object": [
-        "/fukirhosDescription"
-      ]
-    },
-    "Texts": {
-      "Chs": "太酷了！最先进的双滑动舱口！",
-      "Eng": "Radicool!  A state-of-the-art dual-sliding hatch!"
-    }
   }
 ]

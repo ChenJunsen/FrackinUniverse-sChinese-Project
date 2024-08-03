@@ -6416,6 +6416,9 @@
       "objects/ship/juuxshipdoor/juuxshiphatch.object": [
         "/glitchDescription/glitchEmote"
       ],
+      "objects/ship/kirhosshipdoor/kirhosshiphatch.object": [
+        "/glitchDescription/glitchEmote"
+      ],
       "objects/ship/other/protectorateshiphatch/ppprotectorateshiphatch.object": [
         "/glitchDescription/glitchEmote"
       ],
@@ -6602,6 +6605,9 @@
         "/glitchDescription/glitchEmote"
       ],
       "tiles/materials/lightwood/fulightcrosshatch.material": [
+        "/glitchDescription/glitchEmote"
+      ],
+      "tiles/materials/shojilattice.material": [
         "/glitchDescription/glitchEmote"
       ],
       "tiles/materials/treatedwood/futreatedcrosshatch.material": [

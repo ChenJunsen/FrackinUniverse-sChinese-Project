@@ -17,6 +17,9 @@
       "objects/ship/juuxshipdoor/juuxshiphatch.object": [
         "/hylotlDescription"
       ],
+      "objects/ship/kirhosshipdoor/kirhosshiphatch.object": [
+        "/hylotlDescription"
+      ],
       "objects/ship/mantizishipdoor/mantizishiphatch.object": [
         "/hylotlDescription"
       ],
@@ -65,6 +68,9 @@
       "objects/ship/juuxshipdoor/juuxshiphatch.object": [
         "/description"
       ],
+      "objects/ship/kirhosshipdoor/kirhosshiphatch.object": [
+        "/description"
+      ],
       "objects/ship/mantizishipdoor/mantizishiphatch.object": [
         "/description"
       ],
@@ -107,6 +113,9 @@
       "objects/ship/juuxshipdoor/juuxshiphatch.object": [
         "/novakidDescription"
       ],
+      "objects/ship/kirhosshipdoor/kirhosshiphatch.object": [
+        "/novakidDescription"
+      ],
       "objects/ship/other/protectorateshiphatch/ppprotectorateshiphatch.object": [
         "/novakidDescription"
       ],
@@ -141,6 +150,10 @@
         "/humanDescription"
       ],
       "objects/ship/juuxshipdoor/juuxshiphatch.object": [
+        "/avianDescription",
+        "/humanDescription"
+      ],
+      "objects/ship/kirhosshipdoor/kirhosshiphatch.object": [
         "/avianDescription",
         "/humanDescription"
       ],
@@ -190,6 +203,9 @@
       "objects/ship/juuxshipdoor/juuxshiphatch.object": [
         "/glitchDescription/glitchEmotedText"
       ],
+      "objects/ship/kirhosshipdoor/kirhosshiphatch.object": [
+        "/glitchDescription/glitchEmotedText"
+      ],
       "objects/ship/other/protectorateshiphatch/ppprotectorateshiphatch.object": [
         "/glitchDescription/glitchEmotedText"
       ],
@@ -218,6 +234,9 @@
         "/apexDescription"
       ],
       "objects/ship/juuxshipdoor/juuxshiphatch.object": [
+        "/apexDescription"
+      ],
+      "objects/ship/kirhosshipdoor/kirhosshiphatch.object": [
         "/apexDescription"
       ],
       "objects/ship/other/protectorateshiphatch/ppprotectorateshiphatch.object": [
@@ -269,6 +288,9 @@
         "/floranDescription"
       ],
       "objects/ship/juuxshipdoor/juuxshiphatch.object": [
+        "/floranDescription"
+      ],
+      "objects/ship/kirhosshipdoor/kirhosshiphatch.object": [
         "/floranDescription"
       ],
       "objects/ship/mantizishipdoor/mantizishiphatch.object": [

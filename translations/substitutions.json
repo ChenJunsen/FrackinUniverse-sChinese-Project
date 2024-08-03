@@ -1,6 +1,78 @@
 {
+  "bees/frames/antimite.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/antimite2.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/antimite3.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/arctic.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/armored.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
   "bees/frames/basic.item": {
     "/shortdescription": "texts/wide_spread_fields.json"
+  },
+  "bees/frames/copper.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/densealloy.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/durasteel.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/eclipse.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/entropic.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/iron.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/irradiated.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/protective.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/radioactive.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/scented.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/scented2.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/solar.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/solarium.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/sweet.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/titanium.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/tungsten.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/universal.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/uranium.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
+  },
+  "bees/frames/volcanic.item": {
+    "/description": "texts/bees/frames/shared_.item.json"
   },
   "bees/interface/apiary/largeapiary.config": {
     "/gui/labelinput/value": "texts/wide_spread_fields.json",
@@ -3644,15 +3716,6 @@
   "items/active/weapons/melee/broadsword/slimebroadsword/slimepersonbroadsword.activeitem": {
     "/description": "texts/items/active/weapons/melee/broadsword/slimebroadsword/shared_broadsword.activeitem.json"
   },
-  "items/active/weapons/melee/broadsword/slimesword.activeitem": {
-    "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
-  },
-  "items/active/weapons/melee/broadsword/slimesword2.activeitem": {
-    "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
-  },
-  "items/active/weapons/melee/broadsword/slimesword3.activeitem": {
-    "/description": "texts/items/active/weapons/melee/broadsword/shared_.activeitem.json"
-  },
   "items/active/weapons/melee/broadsword/stonebroadsword.activeitem": {
     "/description": "texts/items/active/weapons/melee/shared_.activeitem.json"
   },
@@ -3692,9 +3755,7 @@
     "/shortdescription": "texts/items/active/weapons/melee/dagger/shared_dagger.activeitem.json"
   },
   "items/active/weapons/melee/dagger/nightardagger.activeitem": {
-    "/upgradeParameters/shortdescription": "texts/items/active/weapons/melee/shared_.activeitem.json",
-    "/upgradeParameters2/description": "texts/items/active/weapons.json",
-    "/upgradeParameters2/shortdescription": "texts/items/active/weapons/melee/shared_.activeitem.json"
+    "/upgradeParameters2/description": "texts/items/active/weapons.json"
   },
   "items/active/weapons/melee/dagger/quietusknave.activeitem": {
     "/description": "texts/items/active/weapons/melee/dagger/shared_e.activeitem.json"
@@ -3915,13 +3976,6 @@
   "items/active/weapons/melee/shortsword/fuatropusshortsword.activeitem": {
     "/description": "texts/items/active/weapons/melee/shared_.activeitem.json"
   },
-  "items/active/weapons/melee/shortsword/nightarshortsword.activeitem": {
-    "/improvedParameters/description": "texts/items/active/weapons.json",
-    "/upgradeParameters/description": "texts/items/active/weapons.json",
-    "/upgradeParameters/shortdescription": "texts/items/active/weapons/melee/shared_.activeitem.json",
-    "/upgradeParameters2/description": "texts/items/active/weapons.json",
-    "/upgradeParameters2/shortdescription": "texts/items/active/weapons/melee/shared_.activeitem.json"
-  },
   "items/active/weapons/melee/shortsword/stoneshortsword.activeitem": {
     "/description": "texts/items/active/weapons/melee/shared_.activeitem.json"
   },
@@ -3982,8 +4036,6 @@
     "/description": "texts/items/active/weapons/melee/spear/shared_.activeitem.json"
   },
   "items/active/weapons/nightar/nightarsaber.activeitem": {
-    "/improvedParameters/description": "texts/items/active/weapons.json",
-    "/upgradeParameters/description": "texts/items/active/weapons.json",
     "/upgradeParameters2/description": "texts/items/active/weapons.json"
   },
   "items/active/weapons/novakid/durasteelmachinepistol.activeitem": {
@@ -8698,6 +8750,9 @@
     "/glitchDescription/glitchEmotedText": "texts/materials/shared_shingles.mat.json",
     "/novakidDescription": "texts/materials/shared_shingles.mat.json",
     "/shortdescription": "texts/materials/shared_shingles.mat.json"
+  },
+  "items/materials/shojilattice.matitem": {
+    "/shortdescription": "texts/materials/shared_shojilattice.mat.json"
   },
   "items/materials/shroomblockglow.matitem": {
     "/shortdescription": "texts/materials/shared_shroomblockglow.mat.json"
@@ -28583,7 +28638,7 @@
     "/description": "texts/objects/shared_shiphatch.json",
     "/drodenDescription": "texts/objects/ship/shared_fu_byosship/shared_fu_byosshiphatch.json",
     "/floranDescription": "texts/objects/shared_shiphatch.json",
-    "/fukirhosDescription": "texts/objects/ship/shared_fu_byosship/shared_fu_byosshiphatch.json",
+    "/fukirhosDescription": "texts/objects/ship/shared_osship/shared_osshiphatch.json",
     "/fumantiziDescription": "texts/objects/ship/shared_ship/shared_shiphatch.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/shared_shiphatch.json",
@@ -28628,7 +28683,7 @@
     "/avikanDescription": "texts/objects/ship/shared_fu_byosship/shared_fu_byosshiphatch.json",
     "/description": "texts/objects/shared_shiphatch.json",
     "/drodenDescription": "texts/objects/ship/shared_fu_byosship/shared_fu_byosshiphatch.json",
-    "/fukirhosDescription": "texts/objects/ship/shared_fu_byosship/shared_fu_byosshiphatch.json",
+    "/fukirhosDescription": "texts/objects/ship/shared_osship/shared_osshiphatch.json",
     "/fumantiziDescription": "texts/objects/ship/shared_ship/shared_shiphatch.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/objects/ship/fu_byosshiphatchbroken/fu_byosshiphatchBroken.object.json",
@@ -29915,6 +29970,19 @@
     "/kirhosDescription": "texts/objects/ship/shared_osshipdoor/shared_osshipdoor.json",
     "/novakidDescription": "texts/objects/shared_door/shared_door.object.json",
     "/shortdescription": "texts/objects/ship/shared_kirhosshipdoor/shared_kirhosshipdoor.json"
+  },
+  "objects/ship/kirhosshipdoor/kirhosshiphatch.object": {
+    "/apexDescription": "texts/objects/shared_shiphatch.json",
+    "/avianDescription": "texts/objects/shared_shiphatch.json",
+    "/description": "texts/objects/shared_shiphatch.json",
+    "/floranDescription": "texts/objects/shared_shiphatch.json",
+    "/fukirhosDescription": "texts/objects/ship/shared_osship/shared_osshiphatch.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/objects/shared_shiphatch.json",
+    "/humanDescription": "texts/objects/shared_shiphatch.json",
+    "/hylotlDescription": "texts/objects/shared_shiphatch.json",
+    "/kirhosDescription": "texts/objects/ship/shared_osship/shared_osshiphatch.json",
+    "/novakidDescription": "texts/objects/shared_shiphatch.json"
   },
   "objects/ship/kirhosshipdoorbroken/kirhosshipdoorbroken.object": {
     "/avianDescription": "texts/objects/ship/shared_shipdoor/shared_shipdoor.json",
@@ -40470,6 +40538,7 @@
     "/shortdescription": "texts/materials/shared_deadearth.mat.json"
   },
   "tiles/materials/dollhouse/dollhousecrosshatch.material": {
+    "/description": "texts/tiles/materials.json",
     "/floranDescription": "texts/materials.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
     "/glitchDescription/glitchEmotedText": "texts/materials.json",
@@ -41896,6 +41965,14 @@
     "/glitchDescription/glitchEmotedText": "texts/materials/shared_shingles.mat.json",
     "/novakidDescription": "texts/materials/shared_shingles.mat.json",
     "/shortdescription": "texts/materials/shared_shingles.mat.json"
+  },
+  "tiles/materials/shojilattice.material": {
+    "/description": "texts/tiles/materials.json",
+    "/floranDescription": "texts/materials.json",
+    "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
+    "/glitchDescription/glitchEmotedText": "texts/materials.json",
+    "/novakidDescription": "texts/materials.json",
+    "/shortdescription": "texts/materials/shared_shojilattice.mat.json"
   },
   "tiles/materials/shroomblockglow.material": {
     "/shortdescription": "texts/materials/shared_shroomblockglow.mat.json"

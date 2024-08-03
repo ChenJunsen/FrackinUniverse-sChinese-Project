@@ -2,13 +2,12 @@
   {
     "DeniedAlternatives": [],
     "Files": {
-      "tiles/materials/dollhouse/dollhousecrosshatch.material": [
+      "objects/ship/kirhosshipdoor/kirhosshiphatch.object": [
         "/shortdescription"
       ]
     },
     "Texts": {
-      "Chs": "窗棂",
-      "Eng": "Window Lattice"
+      "Eng": "Kirhos Ship Hatch"
     }
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "items/materials/shojilattice.matitem": [
+        "/shortdescription"
+      ],
+      "tiles/materials/shojilattice.material": [
+        "/shortdescription"
+      ]
+    },
+    "Texts": {
+      "Chs": "木质窗格",
+      "Eng": "Shoji Window Lattice"
+    }
+  }
+]

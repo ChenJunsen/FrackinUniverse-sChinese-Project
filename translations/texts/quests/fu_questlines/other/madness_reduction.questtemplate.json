@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/other/madness_reduction.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "MAdness Loss Tracker"
+    }
+  }
+]

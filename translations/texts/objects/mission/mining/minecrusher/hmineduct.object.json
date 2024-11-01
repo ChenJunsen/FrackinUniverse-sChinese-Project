@@ -3,6 +3,17 @@
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mining/minecrusher/hmineduct.object": [
+        "/avianDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "A machine used for transporting rocks."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/mining/minecrusher/hmineduct.object": [
         "/shortdescription"
       ]
     },

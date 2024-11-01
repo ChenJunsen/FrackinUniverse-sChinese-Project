@@ -1831,7 +1831,7 @@
       "everis.species.json": 0,
       "familiar.species.json": 1,
       "felin.species.json": 1,
-      "fenerox.species.json": 2,
+      "fenerox.species.json": 4,
       "feneroxnamegen.config.json": 22,
       "fennix.species.json": 0,
       "floran.species.json": 1,
@@ -1888,8 +1888,8 @@
       "scyphojel.species.json": 0,
       "sergal.species.json": 1,
       "shade.species.json": 0,
-      "shadow.species.json": 2,
-      "shared_.species.json": 1,
+      "shadow.species.json": 3,
+      "shared_.species.json": 8,
       "shared_avali.species.json": 1,
       "shared_ed.species.json": 0,
       "shoggoth.species.json": 1,
@@ -10248,9 +10248,9 @@
         },
         "distortionsnakes": {
           "aquasnake": {
-            "aquasnake.monstertype.json": 1,
-            "aquasnakesegment.monstertype.json": 1,
-            "shared_.monstertype.json": 1
+            "aquasnake.monstertype.json": 0,
+            "aquasnakesegment.monstertype.json": 0,
+            "shared_.monstertype.json": 0
           },
           "shared_esnake": {
             "shared_esnakesegment.json": 1
@@ -11865,7 +11865,7 @@
         },
         "matterassembler": {
           "prototyper.object.json": 6,
-          "shared_prototyper.json": 7
+          "shared_prototyper.json": 6
         },
         "mechfuelrefinery": {
           "fuelrefinery.object.json": 3
@@ -12805,7 +12805,7 @@
             "pangolinegg.object.json": 2
           },
           "poptopegg": {
-            "poptopegg.object.json": 2
+            "poptopegg.object.json": 1
           },
           "shoategg": {
             "shared_shoategg.json": 10
@@ -15382,20 +15382,20 @@
             "shared_minecontainer2.object.json": 3
           },
           "minecrusher": {
-            "cmineduct.object.json": 3,
+            "cmineduct.object.json": 2,
             "hmineduct.object.json": 1,
             "minecrusher.object.json": 3,
             "mineduct.object.json": 1,
             "shared_.object.json": 1,
             "shared_minecrusher.json": 2,
-            "shared_mineduct.object.json": 9,
+            "shared_mineduct.object.json": 3,
             "smineduct.object.json": 1
           },
           "minedoor": {
             "minedoor.object.json": 9
           },
           "minefence": {
-            "minefence.object.json": 7
+            "minefence.object.json": 5
           },
           "minehazardsign": {
             "minehazardsign.object.json": 8
@@ -21426,10 +21426,12 @@
             "shoggoth_unlocknew.questtemplate.json": 4,
             "shoggoth_wagner.questtemplate.json": 4
           },
+          "madness_reduction.questtemplate.json": 0,
           "precursor": {
             "precursor_unlock.questtemplate.json": 4
           },
-          "shared_.questtemplate.json": 0
+          "shared_.questtemplate.json": 0,
+          "tricorder.questtemplate.json": 0
         },
         "outpost": {
           "bees": {
@@ -22248,7 +22250,7 @@
             "madnessloss.statuseffect.json": 1,
             "madnessloss2.statuseffect.json": 1,
             "madnessloss3.statuseffect.json": 1,
-            "madnessloss4.statuseffect.json": 1,
+            "madnessloss4.statuseffect.json": 0,
             "madnesslossfreud.statuseffect.json": 1,
             "shared_n.animation.json": 1
           },

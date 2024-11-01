@@ -13,26 +13,7 @@
       ]
     },
     "Texts": {
-      "Chs": "一种用于传送岩石的输送管。",
-      "Eng": "A duct for transport rocks."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/mining/minecrusher/hmineduct.object": [
-        "/avianDescription"
-      ],
-      "objects/mission/mining/minecrusher/mineduct.object": [
-        "/avianDescription"
-      ],
-      "objects/mission/mining/minecrusher/smineduct.object": [
-        "/avianDescription"
-      ]
-    },
-    "Texts": {
-      "Chs": "一种用于传下岩石的机器。",
-      "Eng": "A machine used for down rocks."
+      "Eng": "A duct for transporting rocks."
     }
   },
   {
@@ -46,38 +27,23 @@
       ]
     },
     "Texts": {
-      "Chs": "一种用于传送岩石的机器。",
-      "Eng": "A machine used for transport across rocks."
+      "Eng": "A machine used for transporting rocks across."
     }
   },
   {
     "DeniedAlternatives": [],
     "Files": {
       "objects/mission/mining/minecrusher/mineduct.object": [
+        "/avianDescription",
         "/humanDescription"
       ],
       "objects/mission/mining/minecrusher/smineduct.object": [
+        "/avianDescription",
         "/humanDescription"
       ]
     },
     "Texts": {
-      "Chs": "一种用于传下岩石的机器。",
-      "Eng": "A machine used for transport down rocks."
-    }
-  },
-  {
-    "DeniedAlternatives": [],
-    "Files": {
-      "objects/mission/mining/minecrusher/mineduct.object": [
-        "/apexDescription"
-      ],
-      "objects/mission/mining/minecrusher/smineduct.object": [
-        "/apexDescription"
-      ]
-    },
-    "Texts": {
-      "Chs": "一种工业用机器，用于传下岩石。",
-      "Eng": "An industrial machine, used for down rocks."
+      "Eng": "A machine used for transporting rocks down."
     }
   },
   {
@@ -91,8 +57,21 @@
       ]
     },
     "Texts": {
-      "Chs": "一种工业用机器，用于传送岩石。",
-      "Eng": "An industrial machine, used for transporting across rocks."
+      "Eng": "An industrial machine, used for transporting rocks across."
+    }
+  },
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "objects/mission/mining/minecrusher/mineduct.object": [
+        "/apexDescription"
+      ],
+      "objects/mission/mining/minecrusher/smineduct.object": [
+        "/apexDescription"
+      ]
+    },
+    "Texts": {
+      "Eng": "An industrial machine, used for transporting rocks down."
     }
   },
   {

@@ -1,0 +1,13 @@
+[
+  {
+    "DeniedAlternatives": [],
+    "Files": {
+      "quests/fu_questlines/other/tricorder.questtemplate": [
+        "/title"
+      ]
+    },
+    "Texts": {
+      "Eng": "Tricorder tracker"
+    }
+  }
+]

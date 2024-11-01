@@ -23891,7 +23891,6 @@
   },
   "objects/mission/mining/minecrusher/hmineduct.object": {
     "/apexDescription": "texts/objects/mission/mining/minecrusher/shared_mineduct.object.json",
-    "/avianDescription": "texts/objects/mission/mining/minecrusher/shared_mineduct.object.json",
     "/description": "texts/objects/mission/mining/minecrusher/shared_mineduct.object.json",
     "/floranDescription": "texts/objects/mission/mining/minecrusher/shared_mineduct.object.json",
     "/glitchDescription/glitchEmote": "texts/glitchEmotes.json",
@@ -37687,10 +37686,18 @@
     "/text": "texts/quests/fu_questlines/other/shared_.questtemplate.json",
     "/title": "texts/quests/fu_questlines/other/shared_.questtemplate.json"
   },
+  "quests/fu_questlines/other/madness_reduction.questtemplate": {
+    "/completionText": "texts/quests/fu_questlines/other/shared_.questtemplate.json",
+    "/text": "texts/quests/fu_questlines/other/shared_.questtemplate.json"
+  },
   "quests/fu_questlines/other/station_upgrades.questtemplate": {
     "/completionText": "texts/quests/fu_questlines/other/shared_.questtemplate.json",
     "/text": "texts/quests/fu_questlines/other/shared_.questtemplate.json",
     "/title": "texts/quests/fu_questlines/other/shared_.questtemplate.json"
+  },
+  "quests/fu_questlines/other/tricorder.questtemplate": {
+    "/completionText": "texts/quests/fu_questlines/other/shared_.questtemplate.json",
+    "/text": "texts/quests/fu_questlines/other/shared_.questtemplate.json"
   },
   "quests/fu_questlines/outpost/bees/3basicframe.questtemplate": {
     "/title": "texts/wide_spread_fields.json"

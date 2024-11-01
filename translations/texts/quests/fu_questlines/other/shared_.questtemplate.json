@@ -25,7 +25,13 @@
       "quests/fu_questlines/other/kevin_annoyance.questtemplate": [
         "/text"
       ],
+      "quests/fu_questlines/other/madness_reduction.questtemplate": [
+        "/text"
+      ],
       "quests/fu_questlines/other/station_upgrades.questtemplate": [
+        "/text"
+      ],
+      "quests/fu_questlines/other/tricorder.questtemplate": [
         "/text"
       ]
     },
@@ -42,7 +48,13 @@
       "quests/fu_questlines/other/kevin_annoyance.questtemplate": [
         "/completionText"
       ],
+      "quests/fu_questlines/other/madness_reduction.questtemplate": [
+        "/completionText"
+      ],
       "quests/fu_questlines/other/station_upgrades.questtemplate": [
+        "/completionText"
+      ],
+      "quests/fu_questlines/other/tricorder.questtemplate": [
         "/completionText"
       ]
     },

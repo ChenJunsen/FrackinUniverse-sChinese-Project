@@ -15383,12 +15383,12 @@
           },
           "minecrusher": {
             "cmineduct.object.json": 3,
-            "hmineduct.object.json": 1,
+            "hmineduct.object.json": 2,
             "minecrusher.object.json": 3,
             "mineduct.object.json": 1,
             "shared_.object.json": 1,
             "shared_minecrusher.json": 2,
-            "shared_mineduct.object.json": 9,
+            "shared_mineduct.object.json": 8,
             "smineduct.object.json": 1
           },
           "minedoor": {
@@ -21426,10 +21426,12 @@
             "shoggoth_unlocknew.questtemplate.json": 4,
             "shoggoth_wagner.questtemplate.json": 4
           },
+          "madness_reduction.questtemplate.json": 1,
           "precursor": {
             "precursor_unlock.questtemplate.json": 4
           },
-          "shared_.questtemplate.json": 3
+          "shared_.questtemplate.json": 3,
+          "tricorder.questtemplate.json": 1
         },
         "outpost": {
           "bees": {

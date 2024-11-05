@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "A singular slice of 'Mexican' pizza. Besides the onions and the Tuscan 6-Cheese, it's got spiced, ground sausage. Nobody is quite sure or remembers what a Mexican is though.\n^orange;Type: Cooked Meat^reset; ^green;Veggie^reset; Dairy"
+      "Eng": "A singular slice of 'Mexican' pizza. Besides the onions and the Tuscan 6-Cheese, it's got spiced, ground sausage. Nobody is quite sure or remembers what a Mexican is though.\n^orange;Type: Cooked Meat^reset; ^green;Veggie^reset; Dairy",
+      "Chs": "一片独特的“墨西哥”披萨。除了洋葱和托斯卡纳6奶酪，它还有香料、磨碎的香肠。然而，没有人确切地知道或记得墨西哥人是什么。\n ^orange;类型：熟肉^reset;^green;素食^reset;奶制品"
     }
   }
 ]

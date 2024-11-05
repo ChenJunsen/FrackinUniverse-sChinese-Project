@@ -10,7 +10,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Immune^reset;: Moderate Cold, Mild Heat/Poison/Proto"
+      "Eng": "^cyan;Immune^reset;: Moderate Cold, Mild Heat/Poison/Proto",
+      "Chs": "^cyan;免疫^reset;：中度感冒，轻度炎热/中毒/原体"
     }
   },
   {
@@ -27,7 +28,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^cyan;Immune^reset;: Pressure, Extreme Heat/Cold/Radiation, Mild Poison/Proto"
+      "Eng": "^cyan;Immune^reset;: Pressure, Extreme Heat/Cold/Radiation, Mild Poison/Proto",
+      "Chs": "^cyan;免疫^reset;：压力、极端高温/低温/辐射、轻度中毒/原体"
     }
   }
 ]

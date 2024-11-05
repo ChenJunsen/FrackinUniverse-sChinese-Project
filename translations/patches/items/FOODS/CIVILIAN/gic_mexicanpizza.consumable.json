@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "\n\n                                        Adiós, hunger.\n^orange;Type: Cooked Meat^reset; ^green;Veggie^reset; Dairy"
+      "Eng": "\n\n                                        Adiós, hunger.\n^orange;Type: Cooked Meat^reset; ^green;Veggie^reset; Dairy",
+      "Chs": "\n\nAdiós,饥饿。\n^orange;类型: 熟肉^reset; ^green;素食^reset; 乳制品"
     }
   }
 ]

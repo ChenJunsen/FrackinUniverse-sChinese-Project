@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Bread that can no longer be classified as bread.\n^green;Type: Grain^reset"
+      "Eng": "Bread that can no longer be classified as bread.\n^green;Type: Grain^reset",
+      "Chs": "不能再归类为面包的面包。\n ^green;类型：谷物^reset;"
     }
   }
 ]

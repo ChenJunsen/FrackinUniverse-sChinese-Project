@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Extreme chocolate bar. May be laced with drugs.\n^green;Type: Sugar^reset;"
+      "Eng": "Extreme chocolate bar. May be laced with drugs.\n^green;Type: Sugar^reset;",
+      "Chs": "极致巧克力棒。可能含有毒品。\n ^green;类型：糖^reset;"
     }
   }
 ]

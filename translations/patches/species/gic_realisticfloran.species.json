@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "[LIBERATOR] As a member of the FLF, you have been tasked by a discrete benefactor to unite disparate Floran tribes. This was a bloody task doomed to fail from the start. So what you do with your life now, is up to you.\n\n  ^orange;Diet^reset;: Carnivore\n\n^orange;Perks^reset;:\n  Can safely consume ^yellow;(GiC) Drysap^reset;,\n  +^green;30^reset;% Speed when subjected to ^orange;Gunfire Noise^reset;,\n  Health +^green;50^reset;"
+      "Eng": "[LIBERATOR] As a member of the FLF, you have been tasked by a discrete benefactor to unite disparate Floran tribes. This was a bloody task doomed to fail from the start. So what you do with your life now, is up to you.\n\n  ^orange;Diet^reset;: Carnivore\n\n^orange;Perks^reset;:\n  Can safely consume ^yellow;(GiC) Drysap^reset;,\n  +^green;30^reset;% Speed when subjected to ^orange;Gunfire Noise^reset;,\n  Health +^green;50^reset;",
+      "Chs": "[解放者]作为FLF的一员，你被一位离散的捐助者指派来团结不同的叶族人部落。这是一项从一开始就注定要失败的血腥任务。所以，你现在要做什么，取决于你自己。\n\n^orange;饮食^reset;：食肉动物\n\n^orange;天赋^reset;：\n可以安全饮用^yellow;；（GiC）树液^reset;，\n%受^orange;枪声噪音^reset;影响时+^green;30 ^reset;的速度,^reset;，\n生命值+^green;50 ^reset;"
     }
   }
 ]

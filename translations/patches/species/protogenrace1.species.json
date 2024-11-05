@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "In a top secret biotech facility, a race of superior beings have created a range of cyborg creatures, each with the intended purposes of exploring the unknown reaches of the universe.\n\n  ^orange;Diet^reset;: Robotic\n\n^orange;Perks^reset;:\n  Energy: x^green;1.15^reset;\n  Speed: +^green;10%^reset;\n  ^green;Efficient Healing: Restores 20% more health from most healing sources^reset;\n  Fall Damage: x^green;0.8^reset;\n  Resistances: +^green;25%^reset; Poison, +^green;15%^reset; Ice and Radioactive\n\n^orange;Weapons^reset;:\n  +^green;15%^reset; Shotgun Mastery\n  +^green;15%^reset; Pistol Mastery\n\n^red;Weaknesses^reset;:\n  Health: x^red;0.85^reset;\n  Resistances: -^red;25^reset;% Electric, -^red;10^reset;% Physical"
+      "Eng": "In a top secret biotech facility, a race of superior beings have created a range of cyborg creatures, each with the intended purposes of exploring the unknown reaches of the universe.\n\n  ^orange;Diet^reset;: Robotic\n\n^orange;Perks^reset;:\n  Energy: x^green;1.15^reset;\n  Speed: +^green;10%^reset;\n  ^green;Efficient Healing: Restores 20% more health from most healing sources^reset;\n  Fall Damage: x^green;0.8^reset;\n  Resistances: +^green;25%^reset; Poison, +^green;15%^reset; Ice and Radioactive\n\n^orange;Weapons^reset;:\n  +^green;15%^reset; Shotgun Mastery\n  +^green;15%^reset; Pistol Mastery\n\n^red;Weaknesses^reset;:\n  Health: x^red;0.85^reset;\n  Resistances: -^red;25^reset;% Electric, -^red;10^reset;% Physical",
+      "Chs": "在一个绝密的生物技术设施中，一群高级生物创造了一系列半机械人生物，每种生物都有探索宇宙未知领域的目的。\n\n^orange;饮食^reset;：机械食物\n\n^orange;天赋^reset;：\n能量：x ^green;1.15 ^reset;\n速度：+^green;10%^reset;\n ^green;高效治疗：从大多数治疗源恢复20%以上的生命值^reset;\n坠落伤害：x ^green;0.8 ^reset;\n电阻抗：+^green;25%^reset;毒抗，+^green;15%^reset;冰抗和辐射抗性\n\n^orange;武器^reset;：\n+^green;15%^reset;手枪精通\n^red;弱点^reset;：\n生命值：x ^red;0.85 ^reset;\n电抗：-^red;25 ^reset;%电抗，-^red;10 ^reset;%物理抗性"
     }
   }
 ]

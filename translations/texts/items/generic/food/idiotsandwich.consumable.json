@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "IT'S FRACKIN' RAW \n^red;Drunk^reset; 2m \n^blue;Madness Gain^reset; 4 \n^red;Type: Raw Meat^reset;"
+      "Eng": "IT'S FRACKIN' RAW \n^red;Drunk^reset; 2m \n^blue;Madness Gain^reset; 4 \n^red;Type: Raw Meat^reset;",
+      "Chs": "这是富兰克林的原版产物\n ^red;；醉酒^reset;2m \n ^blue;；癫狂^reset;4 \n ^red;类型：生肉^reset;"
     }
   },
   {
@@ -18,7 +19,7 @@
       ]
     },
     "Texts": {
-      "Chs": "沙口三明治",
+      "Chs": "沙雕三明治",
       "Eng": "Idiot Sandwich"
     }
   }

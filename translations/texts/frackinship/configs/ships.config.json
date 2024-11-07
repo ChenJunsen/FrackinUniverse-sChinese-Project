@@ -31,7 +31,7 @@
       ]
     },
     "Texts": {
-      "Chs": "翼族BYOS飞船",
+      "Chs": "翼族自建飞船",
       "Eng": "Avian BYOS Ship"
     }
   },
@@ -43,7 +43,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Fenerox BYOS Ship"
+      "Eng": "Fenerox BYOS Ship",
+      "Chs": "菲诺狐自建船"
     }
   },
   {
@@ -54,7 +55,7 @@
       ]
     },
     "Texts": {
-      "Chs": "叶族BYOS飞船",
+      "Chs": "叶族自建飞船",
       "Eng": "Floran BYOS Ship"
     }
   },
@@ -66,7 +67,7 @@
       ]
     },
     "Texts": {
-      "Chs": "Frackin的开发者飞船",
+      "Chs": "富兰克林的开发者飞船",
       "Eng": "Frackin' Devs"
     }
   },
@@ -78,7 +79,7 @@
       ]
     },
     "Texts": {
-      "Chs": "电子人BYOS飞船",
+      "Chs": "电子人自建飞船",
       "Eng": "Glitch BYOS Ship"
     }
   },
@@ -90,7 +91,7 @@
       ]
     },
     "Texts": {
-      "Chs": "人类BYOS飞船",
+      "Chs": "人类自建飞船",
       "Eng": "Human BYOS Ship"
     }
   },
@@ -102,7 +103,7 @@
       ]
     },
     "Texts": {
-      "Chs": "鲛人BYOS飞船",
+      "Chs": "鲛人自建飞船",
       "Eng": "Hylotl BYOS Ship"
     }
   },
@@ -126,7 +127,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Kirhosi BYOS Ship"
+      "Eng": "Kirhosi BYOS Ship",
+      "Chs": "鼠人自建飞船"
     }
   },
   {
@@ -137,7 +139,7 @@
       ]
     },
     "Texts": {
-      "Chs": "甲虫族BYOS飞船",
+      "Chs": "甲虫族自建飞船",
       "Eng": "Mantizi BYOS Ship"
     }
   },
@@ -149,7 +151,7 @@
       ]
     },
     "Texts": {
-      "Chs": "迷你BYOS飞船",
+      "Chs": "迷你自建飞船",
       "Eng": "Miniship BYOS Ship"
     }
   },
@@ -161,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Nightar BYOS Ship"
+      "Eng": "Nightar BYOS Ship",
+      "Chs": "夜族自建船"
     }
   },
   {
@@ -172,7 +175,7 @@
       ]
     },
     "Texts": {
-      "Chs": "未生锈的备选BYOS飞船",
+      "Chs": "未生锈的备选自建飞船",
       "Eng": "Non-Rusty Alternate BYOS Ship"
     }
   },
@@ -184,7 +187,7 @@
       ]
     },
     "Texts": {
-      "Chs": "未生锈的BYOS飞船",
+      "Chs": "未生锈的自建飞船",
       "Eng": "Non-Rusty BYOS Ship"
     }
   },
@@ -196,7 +199,7 @@
       ]
     },
     "Texts": {
-      "Chs": "星之子BYOS飞船",
+      "Chs": "星之子自建船",
       "Eng": "Novakid BYOS Ship"
     }
   },
@@ -208,7 +211,7 @@
       ]
     },
     "Texts": {
-      "Chs": "守护团BYOS飞船",
+      "Chs": "守护团自建飞船",
       "Eng": "Protectorate BYOS Ship"
     }
   },
@@ -220,7 +223,7 @@
       ]
     },
     "Texts": {
-      "Chs": "生锈的备选BYOS飞船",
+      "Chs": "生锈的备选自建飞船",
       "Eng": "Rusty Alternate BYOS Ship"
     }
   },
@@ -232,7 +235,7 @@
       ]
     },
     "Texts": {
-      "Chs": "生锈的BYOS飞船",
+      "Chs": "生锈的自建飞船",
       "Eng": "Rusty BYOS Ship"
     }
   },
@@ -244,7 +247,7 @@
       ]
     },
     "Texts": {
-      "Chs": "绘世者BYOS飞船",
+      "Chs": "绘世者自建飞船",
       "Eng": "Skath BYOS Ship"
     }
   },
@@ -256,7 +259,7 @@
       ]
     },
     "Texts": {
-      "Chs": "史莱姆BYOS飞船",
+      "Chs": "史莱姆自建飞船",
       "Eng": "Slime BYOS Ship"
     }
   },
@@ -268,7 +271,7 @@
       ]
     },
     "Texts": {
-      "Chs": "影裔BYOS飞船",
+      "Chs": "影裔自建飞船",
       "Eng": "Tenebrhae BYOS Ship"
     }
   },
@@ -280,7 +283,7 @@
       ]
     },
     "Texts": {
-      "Chs": "蚁族BYOS飞船",
+      "Chs": "蚁族自建飞船",
       "Eng": "Thelusian BYOS Ship"
     }
   },
@@ -292,7 +295,7 @@
       ]
     },
     "Texts": {
-      "Chs": "URO BYOS飞船",
+      "Chs": "URO自建飞船",
       "Eng": "UROs BYOS Ship"
     }
   }

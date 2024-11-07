@@ -7,7 +7,7 @@
       ]
     },
     "Texts": {
-      "Chs": "克式手卷",
+      "Chs": "克图什手卷",
       "Eng": "Cthushi"
     }
   },
@@ -19,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Mad not to use soy sauce... ^blue;Madness Gain^reset; 4 \n^orange;Type: Cooked Meat + Grain^reset;"
+      "Eng": "Mad not to use soy sauce... ^blue;Madness Gain^reset; 4 \n^orange;Type: Cooked Meat + Grain^reset;",
+      "Chs": "疯狂地不使用酱油。。。^blue;癫狂^reset;4 \n ^orange;类型：熟肉+谷物^reset;"
     }
   }
 ]

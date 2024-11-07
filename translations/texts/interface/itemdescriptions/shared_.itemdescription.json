@@ -163,7 +163,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^#61be3f;Burst^reset;"
+      "Eng": "^#61be3f;Burst^reset;",
+      "Chs": "^#61be3f；爆裂^reset;；"
     }
   },
   {
@@ -183,7 +184,8 @@
       ]
     },
     "Texts": {
-      "Eng": "^green;Projectiles^reset;"
+      "Eng": "^green;Projectiles^reset;",
+      "Chs": "^green;弹药^reset;；"
     }
   }
 ]

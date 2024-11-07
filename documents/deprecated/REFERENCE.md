@@ -257,7 +257,7 @@
 * 狙击步枪 Sniper Rifle
 * 冲锋枪 Submachine Gun
 * 战斗步枪 Battle Rifle
-* 反器材步枪 AntiMaterial Rifle
+* 反物质步枪 AntiMaterial Rifle
 * 卡宾枪 Carbine
 
 **重枪械**

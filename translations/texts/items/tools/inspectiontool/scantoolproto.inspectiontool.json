@@ -69,7 +69,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Error. Empty."
+      "Eng": "Error. Empty.",
+      "Chs": "错误。空。"
     }
   },
   {
@@ -80,7 +81,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Error. Invalid target."
+      "Eng": "Error. Invalid target.",
+      "Chs": "错误。目标无效。"
     }
   },
   {
@@ -91,7 +93,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Error. Maximum scanner range exceeded."
+      "Eng": "Error. Maximum scanner range exceeded.",
+      "Chs": "错误。超出最大扫描仪范围。"
     }
   },
   {
@@ -102,7 +105,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Error. No item of interest."
+      "Eng": "Error. No item of interest.",
+      "Chs": "错误。没有感兴趣的项目。"
     }
   },
   {
@@ -113,7 +117,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Error. Signal strength insufficient."
+      "Eng": "Error. Signal strength insufficient.",
+      "Chs": "错误。信号强度不足。"
     }
   },
   {
@@ -184,7 +189,8 @@
       ]
     },
     "Texts": {
-      "Eng": "No signal. Please reduce distance to target."
+      "Eng": "No signal. Please reduce distance to target.",
+      "Chs": "没有信号。请缩短与目标的距离。"
     }
   },
   {
@@ -291,7 +297,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Scanner error. Out of range."
+      "Eng": "Scanner error. Out of range.",
+      "Chs": "扫描仪错误。超出范围。"
     }
   },
   {
@@ -543,7 +550,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Unable to read target."
+      "Eng": "Unable to read target.",
+      "Chs": "无法读取目标。"
     }
   },
   {
